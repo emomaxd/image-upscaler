@@ -8,7 +8,7 @@ in your terminal (in both server-side and client-side directories)
 
 3 - go to localhost port 3000
 
-4 - add 2 directories named as "uploads" and "upsacle-results" in the root dir
+4 - add 2 directories named as "uploads" and "upscale-results" in the root dir
 
 DOES NOT SUPPORT VIDEO
 
