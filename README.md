@@ -1,6 +1,6 @@
 for testing
 
-in your terminal (in both server-side and client-side directiories)
+in your terminal (in both server-side and client-side directories)
 
 1 - npm install
 
@@ -8,6 +8,7 @@ in your terminal (in both server-side and client-side directiories)
 
 3 - go to localhost port 3000
 
+4 - add 2 directories named as "uploads" and "upscale-results" in the root dir
 
 DOES NOT SUPPORT VIDEO
 
