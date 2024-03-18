@@ -10,5 +10,3 @@ cd ..
 
 mkdir upscale-results
 mkdir uploads
-
-run.bat
